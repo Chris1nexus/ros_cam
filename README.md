@@ -17,5 +17,3 @@ The scope of this activity is to perform end-to-end development of a MAV (MTOW w
 | **Python**      | 3.7       |
 | **opencv**      | -       |
 | **depthai**      | gen2 library       |
-
-
