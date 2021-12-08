@@ -2,8 +2,10 @@
 
 
 ## Description
-The scope of this activity is to perform end-to-end development of a MAV (MTOW within 500g) capable to autonomously follow an object tracked via deep learning algorithms.
-
+ROS camera node developed with the depth ai framework.
+The aim of the node is to detect aruco codes of a **known predefined shape and size**,   
+such its relative pose to the camera can be computed.   
+The camera used in this project is the oak1.
 
 
 
