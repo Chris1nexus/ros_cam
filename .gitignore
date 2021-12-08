@@ -1,0 +1,5 @@
+# Ignore top-level folders
+/build
+/devel
+/logs
+/.catkin_tools
